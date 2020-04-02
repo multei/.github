@@ -1,5 +1,6 @@
 # Contributing
 
-## Code of conduct
+## Select your preferred language
 
-See our [Code of Counduct](CODE_OF_CONDUCT.md).
+- [English](CONTRIBUTING.en.md);
+- [Portuguese (Brazil](CONTRIBUTING.pt-br.md).
