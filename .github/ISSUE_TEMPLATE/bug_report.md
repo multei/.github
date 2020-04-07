@@ -41,7 +41,7 @@ assignees: ''
 
 (Add any other context about the problem here)
 
-## CheckList do kickoff
+## Checklist do kickoff
 
 - [ ] A análise da história está concluída?
 - [ ] QA (ou pessoa que assumiu o papel de QA) revisou a análise?
