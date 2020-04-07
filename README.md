@@ -16,7 +16,7 @@ As denúncias, após serem feitas pelas usuárias, serão repassadas para os ór
 
 Nosso maior desafio atual é finalizar o fluxo de denúncia, que envolve tarefas de back-end e front-end.
 
-## Recursos técnicos
+## Recursos
 
 - APIs de terceiros: Google Maps API, OpenALPR;
 - CI: CircleCI e Travis;
@@ -27,7 +27,7 @@ Nosso maior desafio atual é finalizar o fluxo de denúncia, que envolve tarefas
 
 ## Tecnologias usadas
 
-- Back-end: Express, Multer, Google Cloud Storage API, Node.js, JavaScript;
+- [API](https://github.com/multei/api#tech-stack);
 - Front-end: Gatsby, Material UI, Muy, Metax, React, JavaScript, Jest, Cypress (testes e2e);
 - Mobile: React Native, Muy, JavaScript, Jest, Detox (para testes end-to-end);
 - Reconhecimento de veículos e placas: Node.js, Express, Rollup, OpenALPR, JavaScript.
