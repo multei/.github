@@ -1,5 +1,11 @@
 # Contributing to Multei!
 
+## Before everything...
+
+### Check our [project board](https://github.com/orgs/multei/projects/1)
+
+You can find it at https://github.com/orgs/multei/projects/1
+
 ## Which IDE should I use?
 
 In the beginning, we used IntelliJ's WebStorm to code.
