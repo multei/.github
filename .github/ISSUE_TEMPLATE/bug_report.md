@@ -43,27 +43,25 @@ assignees: ''
 
 ## CheckList do kickoff
 
-- [ ] A análise da estória está concluída?
+- [ ] A análise da história está concluída?
 - [ ] QA (ou pessoa que assumiu o papel de QA) revisou a análise?
-- [ ] A estória está completa com todos os detalhes e as informações relevantes?
-- [ ] A estória está completa com todos os detalhes e as informações relevantes?
+- [ ] A história está completa com todos os detalhes e as informações relevantes?  
   (Ex.: Contexto, Escopo, Fora de Escopo, Critérios de aceite, etc);
-- [ ] O valor de negócio da estória está bem entendido? (se aplicável)
-- [ ] Esta estória não tem dependência de outras estórias futuras?
-- [ ] Não existem dívidas técnicas relacionadas a estória
-- [ ] Há protótipos de telas para essa estória (se aplicável)
-- [ ] Há detalhes na estória de mensagens de erro e outros feedbacks para o usuário (se aplicável)
-- [ ] Há mensagens de ajuda ou outros textos definidos na estória (se aplicável)
+- [ ] O valor de negócio da história está bem entendido? (se aplicável)
+- [ ] Esta história não tem dependência de outras histórias futuras?
+- [ ] Não existem dívidas técnicas (débitos técnicos) relacionadas a história;
+- [ ] Há protótipos de telas para essa história (se aplicável)
+- [ ] Há detalhes na história de mensagens de erro e outros feedbacks para o usuário (se aplicável)
+- [ ] Há mensagens de ajuda ou outros textos definidos na história (se aplicável)
 - [ ] A história está em um tamanho adequado
 - [ ] Existe feature toggle para a feature (se aplicável)
 
 ## Checklist do deskcheck
 
 - [ ] Há testes unitários que validem a implementação? (se aplicável)
-- [ ] A implementação atendeu aos requisitos definidos nos critérios de aceite
 - [ ] As alterações de código passaram em todas as pipelines
 - [ ] A história foi executada manualmente
 - [ ] A história não trouxe regressões ou impacto negativo a outras implementações
 - [ ] Todos os critérios de aceite foram cobertos
 - [ ] A história não precisa de feedback ou correção
-- [ ] Foi testada uma jornada completa do usuário através da estória (se aplicável)
+- [ ] Foi testada uma jornada completa do usuário através da história (se aplicável)
