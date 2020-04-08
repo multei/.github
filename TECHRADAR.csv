@@ -2,3 +2,4 @@ name,quadrant,ring,isNew,description
 Express,languages-and-frameworks,adopt,TRUE,<p></p>
 API Problem JSON response,languages-and-frameworks,trial,TRUE,<p></p>
 express-api-problem,languages-and-frameworks,assess,TRUE,<p></p>
+Google Cloud Storage,platforms,assess,TRUE,<p></p>
