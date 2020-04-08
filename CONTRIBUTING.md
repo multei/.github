@@ -9,10 +9,14 @@ You can find it at https://github.com/orgs/multei/projects/1
 ## Which IDE should I use?
 
 In the beginning, we used IntelliJ's WebStorm to code.
-Therefore, you will probably find the `.idea /` directory in each of the projects.
+Therefore, you will probably find the `.idea/` directory in each of the projects.
 We take care to add any files that might conflict with your _workspace_ to `.gitignore`.
 
 Feel free to use other IDEs and editors like Visual Studio Code, Atom or Sublime.
+
+## How to write commit messages?
+
+We follow the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Code of conduct
 
