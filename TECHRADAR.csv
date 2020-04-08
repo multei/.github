@@ -6,3 +6,5 @@ Google Cloud Storage,platforms,assess,TRUE,<p></p>
 JavaScript,languages-and-frameworks,adopt,TRUE,<p></p>
 Multer,languages-and-frameworks,assess,TRUE,<p></p>
 JAMstack,techniques,adopt,TRUE,<p></p>
+ESLint,tools,adopt,TRUE,<p></p>
+Renovate,tools,trial,TRUE,<p></p>
