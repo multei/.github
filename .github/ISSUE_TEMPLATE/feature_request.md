@@ -24,10 +24,10 @@ A clear and concise description about the business context
 ## Notes
 Notes about the issue
 
-# In Scope
+## In Scope
 Items in scope of this issue
 
-# Out of Scope
+## Out of Scope
 Items out of scope of this issue
 
 ## Additional context
