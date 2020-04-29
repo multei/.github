@@ -1,6 +1,6 @@
 ---
 name: Spike
-about: Describe this issue template's purpose here.
+about: Make technical questions.
 title: "[Spike]"
 labels: spike
 assignees: ''
