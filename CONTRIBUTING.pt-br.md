@@ -1,5 +1,19 @@
 # Contribuindo com o Multei!
 
+## Fluxo do board
+
+O nosso board está em https://github.com/orgs/multei/projects/1
+
+Estas são as etapas:
+
+1. Backlog (para inserção livre de cards que precisam ser avaliados)
+2. In Analysis (cards que vieram do backlog e que serão analisados)
+3. Todo (pronto para dev, prioridade de cima para baixo)
+4. In Progress (todos têm de ter passado pelo kick off, vai para staging)
+5. Ready for QA (pronto para teste)
+6. QA (para verificar se os testes estão passando e para fazer desk check)
+7. Done
+
 ## Qual IDE usar?
 
 Originalmente, utilizamos o WebStorm da IntelliJ, para trabalhar com o código dos repositórios.
