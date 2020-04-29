@@ -6,13 +6,13 @@ O nosso board está em https://github.com/orgs/multei/projects/1
 
 Estas são as etapas:
 
-1. Backlog (para inserção livre de cards que precisam ser avaliados)
-2. In Analysis (cards que vieram do backlog e que serão analisados)
-3. Todo (pronto para dev, prioridade de cima para baixo)
-4. In Progress (todos têm de ter passado pelo kick off, vai para staging)
-5. Ready for QA (pronto para teste)
-6. QA (para verificar se os testes estão passando e para fazer desk check)
-7. Done
+1. Backlog (para inserção livre de cards que precisam ser avaliados);
+2. In Analysis (cards que vieram do backlog e que serão analisados);
+3. Todo (pronto para dev, prioridade de cima para baixo);
+4. In Progress (todos os cards têm de ter passado pelo kick off e seu código deve ir para `dev`);
+5. Ready for QA (para cards que estão prontos para teste);
+6. QA (para verificar se os testes estão passando e para fazer desk check);
+7. Done.
 
 ## Qual IDE usar?
 
