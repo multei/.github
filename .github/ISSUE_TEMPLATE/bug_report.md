@@ -7,9 +7,21 @@ assignees: ''
 
 ---
 
+## User Story (if applicable)
+
+**As a**
+**I want to**
+**So that**
+
 ## Description
 
-(Describe the bug with a clear and concise description of what it is)
+Describe the bug with a clear and concise description of what it is:
+
+- Error;
+- Impact;
+- Consequence;
+- How to fix;
+- Effort to fix.
 
 ## Steps to reproduce the behavior:
 
@@ -31,15 +43,28 @@ assignees: ''
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-## Smartphone (please complete the following information):
+## Mobile (please complete the following information):
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+ 
+## Acceptance criteria
+
+ - [ ] 1. User should...   
+       **Given**  
+       **When**  
+       **Then**  
+
+## Test scenarios
+
+Add test scenarios.
+
+E.g. try to reproduce this bug in devices like X and browsers like Y, feature toggle on/off...
 
 ## Additional context
 
-(Add any other context about the problem here)
+(Add any other context about the problem here, like screenshots)
 
 ## Checklist do kickoff
 
