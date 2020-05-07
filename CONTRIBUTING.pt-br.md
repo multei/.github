@@ -22,6 +22,10 @@ Tomamos o cuidado de adicionar ao `.gitignore` quaisquer arquivos que possam ger
 
 Sinta-se à vontade para utilizar outras IDEs e editores como o Visual Studio Code, o Atom ou Sublime.
 
+## Ferramentas recomendadas
+
+Se você estiver utilizando o Visual Studio Code, recomendamos instalar o [Prettier para formatação de código](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
+
 ## Code of conduct
 
 Consulte nosso [Código de Conduta](CODE_OF_CONDUCT.md) (em inglês)
