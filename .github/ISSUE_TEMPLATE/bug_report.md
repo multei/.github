@@ -23,6 +23,10 @@ Describe the bug with a clear and concise description of what it is:
 - How to fix;
 - Effort to fix.
 
+## Assumptions
+
+Optionally, add assumptions here.
+
 ## Steps to reproduce the behavior:
 
 1. Go/navigate to '...';
