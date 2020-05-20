@@ -13,9 +13,18 @@ assignees: ''
 **I want to** (use case)
 **So that I** (value)
 
+## Assumptions
+
+1. Given that user already uploaded photo on step described by user story #x; (example)
+
 ## Business context
 
-A clear and concise description about the business context
+**What problem are you trying to solve?**
+
+A clear and concise scope description about the business context
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
@@ -23,12 +32,14 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 
-## In scope
+## Dependencies
 
-Items in scope of this issue
+Is this user story related to another user story, bug, spike or tech debt? Mention them here.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## In scope (technical checklist)
+
+- [ ] E.g. change text to...
+- [ ] E.g. change border of...
 
 ## Out of scope
 
