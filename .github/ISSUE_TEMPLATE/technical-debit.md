@@ -15,6 +15,10 @@ assignees: ''
 - Add the probability of the issue occurrence;
 - Add the resources required for extra work if the TD causes problems later.
 
+## Assumptions
+
+Optionally, add assumptions here.
+
 ## Scope
 
 Add a location of which part of the system the debt item is related to.
