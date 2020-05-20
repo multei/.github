@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+## Assumptions
+
+Optionally, add assumptions here.
+
 ## Questions
 
 - [ ]
