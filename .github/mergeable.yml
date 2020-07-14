@@ -1,0 +1,23 @@
+version: 2
+mergeable:
+  - when: pull_request.*
+    validate:
+      - do: description
+        no_empty:
+          enabled: true
+          message: Please provide a description with **what** was changed, **why** and **how** it was changed.
+      - do: label
+        must_exclude:
+          regex: 'wip'
+      - do: title
+        must_exclude:
+          regex: ^\[WIP\]
+  - when: schedule.repository
+    validate:
+      - do: stale
+        days: 15
+        type: issues, pull_request
+    pass:
+      - do: comment
+        payload:
+          body: It seems that there has been no activity here for some time. Is this still relevant?
